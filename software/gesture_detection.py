@@ -4,7 +4,7 @@ import numpy as np
 import requests
 import time
 # Replace with your ESP32's IP address
-ESP32_IP = "http://192.168.47.31"  # Example IP, change to actual
+ESP32_IP = ""  # Example IP, change to actual
 # Initialize MediaPipe
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
